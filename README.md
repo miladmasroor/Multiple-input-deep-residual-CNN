@@ -19,11 +19,12 @@ Permeability plays an essential role in reservoir-related studies, including flu
 
 Permeability; Conventional well logs; Deep learning; Multiple-input Convolutional neural network; Graphical feature images
 
+# Overview
 
 For a detailed explanation of the methodology and results, please refer to the associated research paper:
 
-Title: A multiple-input deep residual convolutional neural network for reservoir permeability prediction
+**Title:** A multiple-input deep residual convolutional neural network for reservoir permeability prediction
 
-Published in: Geoenergy Science and Engineering, 2023
+**Published in:** Geoenergy Science and Engineering, 2023
 
-DOI: https://doi.org/10.1016/j.geoen.2023.211420
+**DOI:** https://doi.org/10.1016/j.geoen.2023.211420
